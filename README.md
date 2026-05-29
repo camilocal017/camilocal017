@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Desarrollador Full Stack especializado en construir soluciones digitales que generan resultados reales.
 Combino backend robusto con análisis de datos para crear sistemas eficientes, automatizar procesos
@@ -31,7 +31,7 @@ developer = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend**
 
@@ -71,19 +71,19 @@ developer = {
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Demo |
 |----------|-------------|-------|------|
-| 🛍️ **[RetailFlow](https://github.com/camilocal017/retailflow)** | Sistema de gestión retail con KPIs en tiempo real, P&L financiero y 24 tests automatizados | FastAPI · React · PostgreSQL | [Demo →](https://retailflow-gamma.vercel.app/login) |
-| 🏪 **[TiendaSistema](https://github.com/camilocal017/tienda-system)** | Sistema para tienda de barrio con módulo financiero inteligente. 89 tests automatizados | Next.js · Prisma · PostgreSQL | [Demo →](https://tienda-system.vercel.app) |
-| 🍽️ **[La Hacienda](https://github.com/camilocal017/Restaurant-System)** | Sistema de restaurante: mesas, pedidos en tiempo real, carta digital y cierre de caja | Next.js · Prisma · SQLite | [Demo →](https://restaurant-system-olive.vercel.app) |
-| 🤖 **[DataAnalytic IA](https://github.com/camilocal017/data-analytic-ia)** | Análisis de CSV con Google Gemini: gráficas automáticas e insights en lenguaje natural | FastAPI · React · Gemini AI | [Demo →](https://data-analytic-ia.vercel.app) |
-| 🔥 **[El Rinconcito](https://github.com/camilocal017/El-Rinconcito)** | Landing page de restaurante con sistema de partículas de fuego en Canvas API | Next.js · TypeScript · Framer Motion | [Demo →](https://el-rinconcito-six.vercel.app) |
+|  **[RetailFlow](https://github.com/camilocal017/retailflow)** | Sistema de gestión retail con KPIs en tiempo real, P&L financiero y 24 tests automatizados | FastAPI · React · PostgreSQL | [Demo →](https://retailflow-gamma.vercel.app/login) |
+|  **[TiendaSistema](https://github.com/camilocal017/tienda-system)** | Sistema para tienda de barrio con módulo financiero inteligente. 89 tests automatizados | Next.js · Prisma · PostgreSQL | [Demo →](https://tienda-system.vercel.app) |
+|  **[La Hacienda](https://github.com/camilocal017/Restaurant-System)** | Sistema de restaurante: mesas, pedidos en tiempo real, carta digital y cierre de caja | Next.js · Prisma · SQLite | [Demo →](https://restaurant-system-olive.vercel.app) |
+|  **[DataAnalytic IA](https://github.com/camilocal017/data-analytic-ia)** | Análisis de CSV con Google Gemini: gráficas automáticas e insights en lenguaje natural | FastAPI · React · Gemini AI | [Demo →](https://data-analytic-ia.vercel.app) |
+|  **[El Rinconcito](https://github.com/camilocal017/El-Rinconcito)** | Landing page de restaurante con sistema de partículas de fuego en Canvas API | Next.js · TypeScript · Framer Motion | [Demo →](https://el-rinconcito-six.vercel.app) |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=camilocal017&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a230&icon_color=e8a230&text_color=c9d1d9&count_private=true" />
